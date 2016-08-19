@@ -9,6 +9,8 @@ Supervisord进程管理系统
 
 3.基于Supervisord第三方工具cesi的二次开发版本
 
+4.权限控制 用户增删改 用户权限模块：admin read-only  only-log stander
+
 '''
 
 ![image](https://github.com/Luolired/Matrix-Ops/blob/master/img/111.png)
