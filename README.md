@@ -11,4 +11,6 @@ Supervisord进程管理系统
 
 '''
 
-![image](https://github.com/Luolired/Matrix-Ops/blob/master/img/111.png）
+![image](https://github.com/Luolired/Matrix-Ops/blob/master/img/111.png)
+![image](https://github.com/Luolired/Matrix-Ops/blob/master/img/222.png)
+![image](https://github.com/Luolired/Matrix-Ops/blob/master/img/333.png)
